@@ -1,4 +1,4 @@
-# Hi — I'm [Saim Ahmed] 👋  
+# Hi — I'm Saim Ahmed 👋  
 
 🎓 **Aspiring SOC Analyst | Future Penetration Tester**  
 Currently a cybersecurity student exploring Blue Team operations, incident response, and security automation.  
@@ -26,7 +26,5 @@ Planned projects include:
 ---
 
 ## 📫 Contact
-- **Email:** saimahmed6526@gmail.com  
-- **Phone:** +971 501946526  
-
+- **Email:** saimahmed6526@gmail.com    
 ---
