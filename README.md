@@ -18,7 +18,7 @@ Long-term, I aspire to transition into **penetration testing**.
 ## 🛠️ Skills & Associated Projects
 | Skill                                         | Associated Project         |
 |------------------------------------------------------------------------------|----------------------------|
-| Detection & Monitoring, Log Analysis, Detection Engineering, Pen-Test (Basic)| Web Attack Detection Using ELK |
+| Detection & Monitoring, Log Analysis, Detection Engineering, Pen-Test (Basic)| <a herf = "https://github.com/Saim6526/Web-Attack-Detection-Using-ELK/blob/main/README.md">Web Attack Detection Using ELK </a> |
 | Network Traffic Monitoring & Attack Detection                                | Malware Analysis (Coming Soon) |
 | Security Automation (SOAR)                                                   | SOC Automation Lab *(coming soon)* |
 | Threat Detection & Incident Response                                         | N/A|
@@ -60,7 +60,7 @@ Long-term, I aspire to transition into **penetration testing**.
 ---
 
 ## 🚀 Projects
--   
+- <a herf = "https://github.com/Saim6526/Web-Attack-Detection-Using-ELK/blob/main/README.md">Web Attack Detection Using ELK </a>  
 
 ---
 
