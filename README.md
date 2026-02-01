@@ -5,25 +5,25 @@
 
 🎓 **Cybersecurity Student | Aspiring SOC Analyst | Future Penetration Tester**  
 Proactive cybersecurity student with hands-on experience in **Log Analysis, Detection and Response, SIEM Monitoring**.  
-Skilled in tools like **Wazuh, Splunk, Wireshark**, and experienced in automating detection workflows.  
+Skilled in tools like **Wazuh, Splunk, Wireshark**.  
 
 ---
 
 ## 🎯 Objective
 I am eager to start my career as a **SOC Tier 1 Analyst**, applying my skills in log analysis, network security, and incident response.  
-Long-term, I aspire to transition into **penetration testing** and advanced security engineering roles.  
+Long-term, I aspire to transition into **penetration testing**.  
 
 ---
 
 ## 🛠️ Skills & Associated Projects
 | Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation & Log Analysis            | |
-| Network Traffic Monitoring & Attack Detection | |
-| Security Automation (SOAR)                    | SOC Automation Lab *(coming soon)* |
-| Threat Detection & Incident Response          | |
-| Scripting & Automation (Python, Bash)         | |
-| Vulnerability Testing & Penetration Testing   | Internship project (CBA web app pentest) |
+|------------------------------------------------------------------------------|----------------------------|
+| Detection & Monitoring, Log Analysis, Detection Engineering, Pen-Test (Basic)| Web Attack Detection Using ELK |
+| Network Traffic Monitoring & Attack Detection                                | Malware Analysis (Coming Soon) |
+| Security Automation (SOAR)                                                   | SOC Automation Lab *(coming soon)* |
+| Threat Detection & Incident Response                                         | N/A|
+| Scripting & Automation (Python, Bash)                                        | N/A|
+| Vulnerability Testing & Penetration Testing                                  | Internship project (CBA web app pentest) |
 
 ---
 
