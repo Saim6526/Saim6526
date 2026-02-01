@@ -4,7 +4,7 @@
 </a>
 
 🎓 **Cybersecurity Student | Aspiring SOC Analyst | Future Penetration Tester**  
-Proactive cybersecurity student with hands-on experience in **threat detection, SIEM monitoring, and incident response**.  
+Proactive cybersecurity student with hands-on experience in **Log Analysis, Detection and Response, SIEM Monitoring**.  
 Skilled in tools like **Wazuh, Splunk, Wireshark**, and experienced in automating detection workflows.  
 
 ---
