@@ -22,7 +22,7 @@ Long-term, I aspire to transition into **penetration testing**.
 | Network Traffic Monitoring & Attack Detection                                | Malware Analysis (Coming Soon) |
 | Security Automation (SOAR)                                                   | SOC Automation Lab *(coming soon)* |
 | Threat Detection & Incident Response                                         | N/A|
-| Scripting & Automation (Python, Bash)                                        | N/A|
+| Scripting & Automation (Python, Bash)                                        | <a href="https://github.com/Saim6526/Automated-IP-Intelligence_Python-Bash">Automated-IP-Intelligence_Python-Bash|
 | Vulnerability Testing & Penetration Testing                                  | Internship project (CBA web app pentest) |
 
 ---
