@@ -20,6 +20,7 @@ Long-term, I aspire to transition into **penetration testing**.
 |------------------------------------------------------------------------------|----------------------------|
 | Detection & Monitoring, Log Analysis, Detection Engineering, Pen-Test (Basic)| <a href="https://github.com/Saim6526/Web-Attack-Detection-Using-ELK/tree/main">Web Attack Detection Using ELK</a> |
 | Scripting & Automation (Python, Bash)                                        | <a href="https://github.com/Saim6526/Automated-IP-Intelligence_Python-Bash">Automated-IP-Intelligence_Python-Bash|
+| Active Directory & SIEM Monitoring Lab                                       | <a href="https://github.com/Saim6526/Automated-IP-Intelligence_Python-Bash](https://github.com/Saim6526/Active-Directory-Attack-and-Log">Active-Directory-Attack-and-Log|
 | Vulnerability Testing & Penetration Testing                                  | Internship project (CBA web app pentest) |
 
 ---
